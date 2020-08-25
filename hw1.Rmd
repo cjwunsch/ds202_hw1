@@ -1,0 +1,19 @@
+---
+title: "Homework #1"
+author: "Carter Wunsch"
+output: html_document
+---
+
+Hello, my name is **Carter Wunsch**. I'm majoring in *computer science* and *psychology* and minoring in data science. I'm a senior here at ISU. I'm from Johnston, Iowa. I enjoy coding, lifting, and rock climbing. After graduation, I plan to go to graduate school and specialize in artificial intelligence.
+
+One job related to data science is a machine learning scientist. These scientists research new approaches and algorithms used in machine learning techniques. Machine learning is an application of artificial intelligence that allows systems to learn and improve from experience without human intervention. These scientists need strong skills with statistics and programming in order to do their job well. A machine learning scientist is similar to a machine learning engineer, the scientist would be doing research and delivering reports instead of new software.
+<https://www.northeastern.edu/graduate/blog/data-science-careers-shaping-our-future/>
+
+![](/Users/Carter/Pictures/ml.jpg)
+
+Version:
+```{r echo=FALSE}
+version
+```
+
+GitHub username: cjwunsch
