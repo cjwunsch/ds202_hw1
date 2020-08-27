@@ -1,0 +1,16 @@
+---
+title: "Partner Lab #1"
+author: "Isaac Tegeler"
+output: html_document
+---
+
+Github: IsaacTegeler
+
+Most recent commit: 
+    
+    Id: f9a5f52d698aeb252c1cfbdf63d9609e977be56a
+    Added Files:
+    - hw1.Rmd
+    - hw1.html
+  
+Knitting the hw1.Rmd failed because it could not find the image that is included. "/Users/Carter/Pictures/ml.jpg"
